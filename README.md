@@ -20,10 +20,11 @@ but it's a good review or bad review? let's analyze more deeply.
 
 ![image](https://user-images.githubusercontent.com/94748637/204498621-faf29646-b71c-4ad9-bdb3-9cd07924a4a9.png)
 
-on the picture above, we can see the average rating each service is low. the lower is the value of money and food and beverages, so I analyze that service and what I found is :
-for the food and beverages, customers complain because the time to receive food orders is too long and too few food choices, then for free catering all you get is a bottle of water and a packet of crisps,
+on the picture above, we can see the average rating each service is low. the lower is the value of money and food and beverages, so I analyze that service and what I found are:
 
-for the value of money, customers complain because the time to get a refund is too long, there are even some customers who are forced to use vouchers which make them spend more money, then there are delays from flights that are quite long
+1. for the food and beverages, customers complain because the time to receive food orders is too long and too few food choices, then for free catering all you get is a bottle of water and a packet of crisps,
+
+2. for the value of money, customers complain because the time to get a refund is too long, there are even some customers who are forced to use vouchers which make them spend more money, then there are delays from flights that are quite long
 
 then for this problem, I propose :
 1. Give them better free catering such as customers can choose to get water or soda, then for food they can be given pastries or bread so they feel more full
