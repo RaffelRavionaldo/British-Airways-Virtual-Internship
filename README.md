@@ -1,8 +1,10 @@
 # British-Airways-Virtual-Internship
 
+disclaimer: I got this virtual internship from the theforage.com website
+
 In this virtual intership, I was given 2 assignments.
 
-Task 1 : Web Scraping to gain company insights
+## Task 1 : Web Scraping to gain company insights
 
 Business problem : British airways (BA) want to understand how people view BA customer experience to make our operations run more efficiently and make our customer experience even better.
 
@@ -28,4 +30,4 @@ then for this problem, I propose :
 2. Highlight services can order food and drinks before the flight so they can order before the flight and we can prepare those orders more quickly
 3. Give the valueable voucher to customer and provide education to employees so as not to force customers to use vouchers
 
-Task 2 : Predicting customer buying behaviour
+## Task 2 : Predicting customer buying behaviour
