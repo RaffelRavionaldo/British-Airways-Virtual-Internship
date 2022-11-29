@@ -18,6 +18,10 @@ From the wordcloud above, we can see the key of topics in customer review are fl
 
 but it's a good review or bad review? let's analyze more deeply.
 
+![image](https://user-images.githubusercontent.com/94748637/204512837-5b809db4-70a9-4130-a09b-a6ad4e144137.png)
+
+63.3% of our customers are dissatisfied with their flights, what are the reasons?
+
 ![image](https://user-images.githubusercontent.com/94748637/204498621-faf29646-b71c-4ad9-bdb3-9cd07924a4a9.png)
 
 on the picture above, we can see the average rating each service is low. the lower is the value of money and food and beverages, so I analyze that service and what I found are:
