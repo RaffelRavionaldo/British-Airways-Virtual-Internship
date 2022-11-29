@@ -39,4 +39,22 @@ then for this problem, I propose :
 
 Business Problem : British Airways want to know what factors influence customers to complete or cancel their booking processes.
 
+For this task, I make predictive model with XGBoost to get feature importance.
 
+Dataset (customer_booking) already be cleaned because it's dont have duplicate and null value, so we can start analyze the data.
+
+out of 50,000 booking processes made by customers, only 7,474 booking processes were completed. why did this happen?
+
+To find out, I made a machine learning model to take the feature importance, the results are:
+
+![image](https://user-images.githubusercontent.com/94748637/204530985-a76169d0-4cdd-4def-a197-49bcdc5726f1.png)
+
+There are 2 features that greatly affect whether the booking process will be completed by the customer :
+1. Purchase_lead (number of days between travel date and booking date)
+   It was found that the unfinished booking process has a higher average purchase_lead value than the completed booking process.
+2. Length_of_stay
+   the same as purchase leads, where the average value of length_of_stay from bookings that are not completed is higher than bookings that are completed
+
+so to solve the problem, I suggest to :
+1. Providing attractive offers such as getting a higher discount if customer order before 30 days of flight.
+2. Provide rescheduling options to customers with a maximum deadline of 3 days before the flight.
