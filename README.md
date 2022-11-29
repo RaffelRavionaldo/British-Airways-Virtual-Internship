@@ -2,7 +2,7 @@
 
 disclaimer: I got this virtual internship from the theforage.com website
 
-In this virtual intership, I was given 2 assignments.
+In this virtual intership, I was given 2 task's.
 
 ## Task 1 : Web Scraping to gain company insights
 
@@ -36,3 +36,7 @@ then for this problem, I propose :
 3. Give the valueable voucher to customer and provide education to employees so as not to force customers to use vouchers
 
 ## Task 2 : Predicting customer buying behaviour
+
+Business Problem : British Airways want to know what factors influence customers to complete or cancel their booking processes.
+
+
